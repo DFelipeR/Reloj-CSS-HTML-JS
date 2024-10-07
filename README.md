@@ -4,7 +4,7 @@
 
 ✦Tecnologías Utilizadas✦
 
--HTML: Se utiliza para estructurar la página web que aloja el reloj.
+-HTML: Se utiliza para estructurar la página web que aloja el reloj.  
 -CSS: Permite dar estilo al reloj, definiendo colores, fuentes y disposición de elementos.
 
 -JavaScript: La lógica del reloj se implementa mediante JavaScript, actualizando la hora en tiempo real.
